@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 import MenuItem from '../menu-item/menu-item.component';
@@ -59,4 +58,3 @@ class Directory extends React.Component {
 }
 
 export default Directory;
-
